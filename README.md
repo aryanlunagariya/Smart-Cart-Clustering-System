@@ -231,7 +231,7 @@ This project helped in understanding:
 
 ## Author
 
-**AryanLunagariya**
+**Aryan Lunagariya**
 
 AI/ML Learning Project  
 SmartCard System
